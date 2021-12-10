@@ -1,4 +1,4 @@
-<a href="https://www.tookay.net/"><img src="Wing up.jpg" alt="Kia Ora, my name is Dave" / align="center"></a>
+<a href="https://www.tookay.net/"><img src="Wing up.jpg" alt="Banner image of paraglider wing" align="center" /></a>
 
 <table><tr><td valign="top" width="50%">
 
