@@ -25,8 +25,10 @@ New Zealand born, I have now lived in the United Kingdom half my life, along wit
 
 *   [Preflight](https://github.com/tookayNET/preflight)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. 
 Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration*
+  
 *   [Brainer](https://github.com/tookayNET/brainer)<br/>*"Brainer" is envisaged as a "more fun" flash-card app, utilising a Tinder-like interface for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  
 As of Dec 2021, I have been experimenting with front-end styling using React Native.*
+  
 *   [GenieUs](https://github.com/GenieUS-HR)<br/>*is a software project dreamed up by Jihyo Jeon, Alistair Garioch, Alex Green, Louis Cappell and myself. An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom. 
 An alpha version for demo purposes can be found linked to here.*
 
