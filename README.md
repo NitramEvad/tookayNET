@@ -13,9 +13,9 @@
 
 ### About me
 
-Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk), a Masters Degree in development culminating in two years working for a Cambodian NGO ([Khemara](http://www.khemaracambodia.org/)), I have finally retrained as a Software Engineer. 
+Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development culminating in two years working for a Cambodian NGO ([Khemara](http://www.khemaracambodia.org/)), I have finally retrained as a Software Engineer. 
   
-This interest in coding is not new.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) have been a keen interest.  I was one of New Zealand's earliest internet adopters back in the day of dial up modems and the BBS scene, and in all my professional roles have gravitated towards technical, IT-related, projects.
+My interest in coding is not new.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) have been a keen interest.  I was one of New Zealand's earliest internet adopters back in the day of dial up modems and the BBS scene, and in all my professional roles have gravitated towards technical, IT-related, projects.
 
 New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa. 
 
