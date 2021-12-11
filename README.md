@@ -35,7 +35,7 @@ Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-deskt
 An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom.<br/>
 An alpha version for demo purposes can be found linked to here.*
   
-*   [Missage](https://github.com/JIHYO-JEON/Missage)<br/> is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking the JavaScript front-end in to TypeScript, re-formatting some aspects of styling and reslolving a small number of bugs.
+*   [Missage](https://github.com/JIHYO-JEON/Missage)<br/>*is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking the JavaScript front-end in to TypeScript, re-formatting some aspects of styling and reslolving a small number of bugs.
   
 *   [Brainer](https://github.com/tookayNET/brainer)<br/>*"Brainer" is envisaged as a "more fun" flash-card app, utilising a Tinder-like interface for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  
 As of Dec 2021, I have been experimenting with front-end styling using React Native.*
