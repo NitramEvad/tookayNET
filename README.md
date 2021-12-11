@@ -70,6 +70,9 @@ As of Dec 2021, I have been experimenting with front-end styling using React Nat
 </div>
 </td>
 </tr>
+
+  <!--
+<tr>
 <td align="center" width="50%" >
 <img src="https://github-readme-stats.vercel.app/api?username=tookayNET"/>
 </td>
@@ -77,7 +80,7 @@ As of Dec 2021, I have been experimenting with front-end styling using React Nat
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tookayNET"/>
 </td>
 </tr>
-  
+  -->
   
 </table>
 
