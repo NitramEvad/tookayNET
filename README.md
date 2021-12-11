@@ -4,9 +4,9 @@
 
 ### About me
 
-Following a career in Higher Education administration and management, a Masters Degree in development, followed by two years working for a Cambodian NGO, I have finally retrained as a Software Engineer. 
+Following a career in Higher Education administration and management, a Masters Degree in development which culminated in two years working for a Cambodian NGO, I have finally retrained as a Software Engineer. 
 
-This interest in coding is not new however.  From a young age I was playing on, and opening-up, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) have been a keen interest.  I was one of New Zealand's earliest internet users back in the day of dial up modems and the BBS scene, and in all my professional roles have gravitated towards technical, IT-related, projects.
+This interest in coding is not new.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) have been a keen interest.  I was one of New Zealand's earliest internet adopters back in the day of dial up modems and the BBS scene, and in all my professional roles have gravitated towards technical, IT-related, projects.
 
 New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa. 
 
@@ -18,11 +18,11 @@ New Zealand born, I have now lived in the United Kingdom half my life, along wit
 
 <!-- Projects list -->
 
-*   [Pre-Flight](https://)<br/>*is in the early stages of development and is intended as an aid to the paragldiing community, planning launch locations, shared transport, and helping pilots estblish contact with shared flight goals in mind.*
+*   [Preflight](https://)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; planning the logistics of cross country flying, asssisting in declonfliction between paragliders and military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals with flight planning. Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration*
 
-*   [Brainer](https://)<br/>*"Brainer" is the beginning stages of a Tinder-like front-end interface to an SRS flash-card app.*
+*   [Brainer](https://)<br/>*"Brainer" is envisaged as a "more fun" flash-card app, utilising a Tinder-like interface for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  As of Dec 2021, I have been experimenting with front-end styling using React Native.*
 
-*   [GenieUs](https://)<br/>*is a software project dreamed up by Alistair Garioch, Jihyo Jeon, Alex Green, Louis Cappell and myself. An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance via Zoom link*
+*   [GenieUs](https://)<br/>*is a software project dreamed up by Jihyo Jeon, Alistair Garioch, Alex Green, Louis Cappell and myself. An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom. An alpha version for demo purposes can be found linked to here.*
 
 <!-- blog end -->
 
@@ -60,4 +60,5 @@ New Zealand born, I have now lived in the United Kingdom half my life, along wit
 </table>
 
 <a href="https://twitter.com/tookayNET"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="right" alt="Twitter"></a>
+< a href="https://www.linkedin.com/in/nitramdivad/">< img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="right" alt="Linkedin"></a>
 <!-- <a href="https://github.com/codepunkt/"><img src="https://github.com/"  alt=""></a>-->
