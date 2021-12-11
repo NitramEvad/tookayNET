@@ -31,9 +31,11 @@ When not working, studying, or dabbling with coding projects, I can be found par
 *   [Preflight](https://github.com/tookayNET/preflight)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
 Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration*
 
-*   [GenieUs](https://github.com/GenieUS-HR)<br/>*is a software project dreamed up by Jihyo Jeon, Alistair Garioch, Alex Green, Louis Cappell and myself.<br/> 
+*   [GenieUs](https://github.com/GenieUS-HR)<br/>*is a software project dreamed up by Alistair Garioch, Jihyo Jeon, Alex Green, Louis Cappell and myself.<br/> 
 An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom.<br/>
 An alpha version for demo purposes can be found linked to here.*
+  
+*   [Missage](https://github.com/JIHYO-JEON/Missage)<br/> is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking the JavaScript front-end in to TypeScript, re-formatting some aspects of styling and reslolving a small number of bugs.
   
 *   [Brainer](https://github.com/tookayNET/brainer)<br/>*"Brainer" is envisaged as a "more fun" flash-card app, utilising a Tinder-like interface for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  
 As of Dec 2021, I have been experimenting with front-end styling using React Native.*
