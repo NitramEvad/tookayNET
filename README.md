@@ -20,6 +20,9 @@ My interest in coding is not new.  From a young age I was playing on, and dissec
 New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa. 
 
 When not working, studying, or dabbling with coding projects, I can be found paragliding, climbing or practicing Brazilian Jiu-Jitsu.
+  
+
+
 </td>
 <td valign="top" width="50%">
 
@@ -67,6 +70,15 @@ As of Dec 2021, I have been experimenting with front-end styling using React Nat
 </div>
 </td>
 </tr>
+<td align="center" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=tookayNET"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tookayNET"/>
+</td>
+</tr>
+  
+  
 </table>
 
 <a href="https://twitter.com/tookayNET" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" align="right" alt="Twitter"></a>
