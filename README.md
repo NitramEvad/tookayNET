@@ -1,5 +1,9 @@
 <a href="https://www.tookay.net/">
-<img src="Wing up.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
+<!-- <img src="1.jpg" alt="Banner image of paraglider wing" width="100%" align="center" /> -->
+<!-- <img src="2.jpg" alt="Banner image of paraglider wing" width="100%" align="center" /> -->
+<!-- <img src="3.jpg" alt="Banner image of paraglider wing" width="100%" align="center" /> -->
+<img src="4.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
+<!-- <img src="Wing up.jpg" alt="Banner image of paraglider wing" width="100%" align="center" /> -->
 </a>
 
 <table>
@@ -17,9 +21,9 @@ New Zealand born, I have now lived in the United Kingdom half my life, along wit
 
 ### Latest Projects
 
-*   [Preflight](https://)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; planning the logistics of cross country flying, asssisting in declonfliction between paragliders and military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals with flight planning. Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration*
-*   [Brainer](https://)<br/>*"Brainer" is envisaged as a "more fun" flash-card app, utilising a Tinder-like interface for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  As of Dec 2021, I have been experimenting with front-end styling using React Native.*
-*   [GenieUs](https://)<br/>*is a software project dreamed up by Jihyo Jeon, Alistair Garioch, Alex Green, Louis Cappell and myself. An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom. An alpha version for demo purposes can be found linked to here.*
+*   [Preflight](https://github.com/tookayNET/preflight)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; planning the logistics of cross country flying, asssisting in declonfliction between paragliders and military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals with flight planning. Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration*
+*   [Brainer](https://github.com/tookayNET/brainer)<br/>*"Brainer" is envisaged as a "more fun" flash-card app, utilising a Tinder-like interface for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  As of Dec 2021, I have been experimenting with front-end styling using React Native.*
+*   [GenieUs](https://github.com/GenieUS-HR)<br/>*is a software project dreamed up by Jihyo Jeon, Alistair Garioch, Alex Green, Louis Cappell and myself. An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom. An alpha version for demo purposes can be found linked to here.*
 
 </td>
 </tr>
