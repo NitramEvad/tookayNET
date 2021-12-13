@@ -15,7 +15,7 @@
 
 Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development culminating in two years working for a Cambodian NGO ([Khemara](http://www.khemaracambodia.org/)), I have finally retrained as a Software Engineer. 
   
-My interest in coding is not new.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) have been a keen interest.  I was one of New Zealand's earliest internet adopters back in the day of dial up modems and the BBS scene, and in all my professional roles have gravitated towards technical, IT-related, projects.
+My interest in coding is not new.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) have been a keen interest.  I was one of New Zealand's earliest internet adopters back in the day of dial-up modems and the [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) scene, and in all my professional roles have gravitated towards technical, IT-related, projects.
 
 New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa. 
 
@@ -33,7 +33,7 @@ Future plans are for [RASP](http://rasp.stratus.org.uk/index.php/rasptable-deskt
 
 *   [GenieUs](https://github.com/GenieUS-HR)<br/>*is a software project dreamed up by Alistair Garioch, Jihyo Jeon, Alex Green, Louis Cappell and myself.<br/> 
 An "in-person" version of StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom.<br/>
-An alpha version for demo purposes can be found linked to here.*
+An alpha version for demo purposes can be found at [www.genieus.help](http://www.genieus.help).*
   
 *   [Missage](https://github.com/JIHYO-JEON/Missage)<br/>*is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking the JavaScript front-end in to TypeScript, re-formatting some aspects of styling and reslolving a small number of bugs.*
   
