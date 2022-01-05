@@ -13,7 +13,7 @@
 
 ### About me
 
-Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development which culminated in two years working for a Cambodian NGO ([Khemara](http://www.khemaracambodia.org/)), I have finally retrained as a Software Engineer. 
+Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development which culminated in two years working for an NGO ([Khemara](http://www.khemaracambodia.org/)) in Phnom Penh, Cambodia, I have finally retrained as a Software Engineer. 
   
 The change in career path is not as abrupt as it may sound.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) has been a keen interest.  I was one of New Zealand's earliest internet adopters back in the days of dial-up modems and the [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) scene, and in all my professional roles since have gravitated towards (or been volunteered for) technical, IT-related, projects.
 
