@@ -26,7 +26,7 @@ When not working, studying, or dabbling with coding projects, I can be found par
 
 ### Latest Projects
 
-*   [Preflight](https://github.com/tookayNET/preflight) (Jan-Mar 2022)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
+*   [Preflight](https://github.com/tookayNET/preflight) (Feb-> 2022)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
 [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration are planned post-MVP.*
 
 *   [GenieUs](https://github.com/GenieUS-HR) (ongoing 2021-2022)<br/>*is a software project dreamed up by [Alistair Garioch](https://github.com/agarioch), [Jihyo Jeon](https://github.com/JIHYO-JEON), [Alex Green](https://github.com/apgreene), [Louis Cappell](https://github.com/LCappell) and myself.<br/> 
