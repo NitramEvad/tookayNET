@@ -13,13 +13,13 @@
 
 ### About me
 
-Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development which culminated in two years working for an NGO ([Khemara](http://www.khemaracambodia.org/)) in Phnom Penh, Cambodia, I retrained as a Software Engineer in 2021 and since March 2022 have been a front-end engineer at [Lampoo](http://www.lampoo.com).
+Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development which culminated in two years working for an NGO ([Khemara](http://www.khemaracambodia.org/)) in Phnom Penh, Cambodia, I retrained as a Software Engineer in 2021 and since March 2022 have been employed as a front-end engineer at [Lampoo](http://www.lampoo.com).
   
-The change in career path is not as abrupt as it may sound.  From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) has been a keen interest.  I was one of New Zealand's earliest internet adopters back in the days of dial-up modems and the [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) scene, and in all my professional roles since have gravitated towards (or been volunteered for) technical, IT-related, projects.
+From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) has been a keen interest.  I was one of New Zealand's earliest internet adopters back in the days of dial-up modems and the [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) scene, and in all my professional roles since have gravitated towards (or been volunteered for) technical, IT-related, projects.
 
 New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa. 
 
-When not working, studying, or dabbling in coding projects, I can be found paragliding, rowing, practicing Brazilian Jiu-Jitsu, and climbing.
+When not working, studying, or dabbling in coding projects, I can be found paragliding, rowing, practicing Brazilian Jiu-Jitsu, or climbing.
 
 </td>
 <td valign="top" width="50%">
