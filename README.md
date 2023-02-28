@@ -29,14 +29,13 @@ When not working, studying, or dabbling with coding projects, I can be found par
 *   [Preflight](https://github.com/tookayNET/preflight) (Feb-> 2022)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
 [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration are planned post-MVP.*
 
-*   [GenieUs](https://github.com/GenieUS-HR) (ongoing 2021-2022)<br/>*is a software project dreamed up by [Alistair Garioch](https://github.com/agarioch), [Jihyo Jeon](https://github.com/JIHYO-JEON), [Alex Green](https://github.com/apgreene), [Louis Cappell](https://github.com/LCappell) and myself.<br/> 
-Essentially a face-to-face equivalent to StackOverflow, GenieUs connects willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom.<br/>
+*   [GenieUs](https://github.com/GenieUS-HR) (ongoing 2021-2022)<br/>*was a software project dreamed up by [Alistair Garioch](https://github.com/agarioch), [Jihyo Jeon](https://github.com/JIHYO-JEON), [Alex Green](https://github.com/apgreene), [Louis Cappell](https://github.com/LCappell) and myself.<br/> 
+Essentially a face-to-face equivalent to StackOverflow, GenieUs connected willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom.<br/>
 A demo alpha version can be viewed at [www.genieus.help](http://www.genieus.help).*
   
-*   [Brainer](https://github.com/tookayNET/brainer) (Dec 2021 - Jan 2022)<br/>*is a toy project, envisaged as a "more fun" flash-card app, playing on dating-app style swipe interations for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.  
-As of Dec 2021, I have been experimenting with front-end styling using React Native and the completed front-end and back-end is planned by the end of January 2022*
+*   [Brainer](https://github.com/tookayNET/brainer) (Dec 2021 - Jan 2022)<br/>*was a toy project, envisaged as a "more fun" flash-card app, playing on dating-app style swipe interations for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.*  
 
-*   [Missage](https://github.com/JIHYO-JEON/Missage) (Dec 2021)<br/>*is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking the JavaScript front-end in to TypeScript, re-formatting some aspects of styling and reslolving a small number of bugs.*
+*   [Missage](https://github.com/JIHYO-JEON/Missage) (Dec 2021)<br/>*is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking its JavaScript front-end in to TypeScript, re-formatting some aspects of styling and resolving a small number of bugs.*
   
 </td>
 </tr>
