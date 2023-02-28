@@ -19,7 +19,7 @@ The change in career path is not as abrupt as it may sound.  From a young age I 
 
 New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa. 
 
-When not working, studying, or dabbling with coding projects, I can be found paragliding, climbing or practicing Brazilian Jiu-Jitsu.
+When not working, studying, or dabbling with coding projects, I can be found paragliding, rowing, practicing Brazilian Jiu-Jitsu or climbing.
 
 </td>
 <td valign="top" width="50%">
