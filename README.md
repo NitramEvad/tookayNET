@@ -21,29 +21,15 @@
 
 ### <img src="https://img.shields.io/badge/About_Me-4B5563?style=flat-square" />
 
-Following a career in Higher Education administration and management ([SOAS](http://www.soas.ac.uk) and the [University of Cambridge](http://www.cam.ac.uk)), and a Masters Degree in development which culminated in two years working for an NGO ([Khemara](http://www.khemaracambodia.org/)) in Phnom Penh, Cambodia, I retrained as a Software Engineer in 2021 and since March 2022 have been employed as a front-end engineer at [Lampoo](http://www.lampoo.com).
-
-From a young age I was playing on, and dissecting, computers, dabbling in BASIC and Pascale, and tech (along with aerospace) has been a keen interest.  I was one of New Zealand's earliest internet adopters back in the days of dial-up modems and the [BBS](https://en.wikipedia.org/wiki/Bulletin_board_system) scene, and in all my professional roles since have gravitated towards (or been volunteered for) technical, IT-related, projects.
-
-New Zealand born, I have now lived in the United Kingdom half my life, along with periods in Southeast Asia and Africa.
-
-When not working, studying, or dabbling in coding projects, I can be found paragliding, rowing, practicing Brazilian Jiu-Jitsu, or climbing.
+Mostly playing with Claude Code these days, having retrained in software engineering in 2021 and spending a few years as a FE dev in startups. 
 
 </td>
 <td valign="top" width="50%">
 
 ### <img src="https://img.shields.io/badge/Latest_Projects-7DD3FC?style=flat-square&logoColor=white" />
 
-*   [Preflight](https://github.com/tookayNET/preflight) (Feb 2023...)<br/>*is in the early stages of development and is intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
+*   [Preflight](https://github.com/tookayNET/preflight) (Oct 2025...)<br/>*in the early stage of development, intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
 [RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration are planned post-MVP.*
-
-*   [GenieUs](https://github.com/GenieUS-HR) (ongoing 2021-2022)<br/>*was a software project dreamed up by [Alistair Garioch](https://github.com/agarioch), [Jihyo Jeon](https://github.com/JIHYO-JEON), [Alex Green](https://github.com/apgreene), [Louis Cappell](https://github.com/LCappell) and myself.<br/>
-Essentially a face-to-face equivalent to StackOverflow, GenieUs connected willing tutors and developers, on a subscription-based model, to provide tech support and guidance over Zoom.<br/>
-A demo alpha version can be viewed at [www.genieus.help](http://www.genieus.help).*
-
-*   [Brainer](https://github.com/tookayNET/brainer) (Dec 2021 - Jan 2022)<br/>*was a toy project, envisaged as a "more fun" flash-card app, playing on dating-app style swipe interations for card-swipe actions, while using SRS technology and being broadly modelled on the very popular [Anki](https://apps.ankiweb.net/) flash-card system.*
-
-*   [Missage](https://github.com/JIHYO-JEON/Missage) (Dec 2021)<br/>*is a speech-to-text note-taking application and the brain-child of [Jihyo Jeon](https://github.com/JIHYO-JEON).  I assisted in reworking its JavaScript front-end in to TypeScript, re-formatting some aspects of styling and resolving a small number of bugs.*
 
 </td>
 </tr>
