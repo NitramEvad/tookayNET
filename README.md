@@ -28,7 +28,7 @@ Mostly playing with Claude Code these days, having retrained in software enginee
 
 ### <img src="https://img.shields.io/badge/Latest_Projects-7DD3FC?style=flat-square&logoColor=white" />
 
-*   Visit my [homesite](https://www.tookay.net/) for current projects.
+Visit my [homesite](https://www.tookay.net/) for current projects.
 
 </td>
 </tr>
