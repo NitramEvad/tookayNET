@@ -28,8 +28,7 @@ Mostly playing with Claude Code these days, having retrained in software enginee
 
 ### <img src="https://img.shields.io/badge/Latest_Projects-7DD3FC?style=flat-square&logoColor=white" />
 
-*   [Preflight](https://github.com/tookayNET/preflight) (Oct 2025...)<br/>*in the early stage of development, intended as a tool for the paragliding community; organising the logistics of cross country flying days, asssisting in declonfliction with military traffic via streamlined [CANP](https://www.bhpa.co.uk/documents/safety/canp/) submission, and helping pilots with similar goals meet and plan their XC flights. <br/>
-[RASP](http://rasp.stratus.org.uk/index.php/rasptable-desktop), Leonardo, [XC Contest](https://www.xcontest.org/world/en/) and [Ayvri](https://ayvri.com/) integration are planned post-MVP.*
+*   Visit my [homesite](https://www.tookay.net/) for current projects.
 
 </td>
 </tr>
